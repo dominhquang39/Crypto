@@ -1,0 +1,36 @@
+#1: result is 2
+#2: 290345 and 164172 is coprime
+290345 and 155768 is coprime
+290345 and 423151 is coprime
+290345 and 239707 is coprime
+290345 and 153544 is coprime
+290345 and 480837 is coprime
+218585 and 143231 is coprime
+218585 and 164172 is coprime
+218585 and 155768 is coprime
+218585 and 423151 is coprime
+218585 and 239707 is coprime
+218585 and 153544 is coprime
+218585 and 480837 is coprime
+143231 and 164172 is coprime
+143231 and 155768 is coprime
+143231 and 423151 is coprime
+143231 and 239707 is coprime
+143231 and 153544 is coprime
+143231 and 480837 is coprime
+164172 and 423151 is coprime
+164172 and 239707 is coprime
+155768 and 423151 is coprime
+155768 and 239707 is coprime
+155768 and 480837 is coprime
+423151 and 239707 is coprime
+423151 and 153544 is coprime
+423151 and 287390 is coprime
+423151 and 480837 is coprime
+239707 and 153544 is coprime
+239707 and 287390 is coprime
+239707 and 480837 is coprime
+153544 and 480837 is coprime
+287390 and 480837 is coprime
+#3: result is 2
+#4: result is 32393
